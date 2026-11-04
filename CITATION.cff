@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this model in your research, please cite it as follows."
+title: "Generative AI and the Paradox of Human Capabilities: A System Dynamics Model of Human Capability Reinforcement and Erosion in Organizations"
+authors:
+  - family-names: "Tangesirasl"
+    given-names: "Hojat"
+type: software
+repository-code: "https://github.com/Hojat-Tangesir-asl/generative-ai-human-capability-dynamics"
+license: CC-BY-4.0
