@@ -37,14 +37,14 @@ The model source file is provided in Vensim `.mdl` format.
 
 Six scenarios are developed to examine alternative configurations of organizational AI adoption, human capability development, and human–AI task allocation.
 
-Scenario / Name / Description
-
-S0 / Baseline / Balanced current use, with baseline settings for AI adoption, training, independent practice, and task allocation.
-S1 / Augmentation / Human-in-the-loop use supported by increased training investment and protected independent practice.
-S2 / Automation-first / Rapid delegation to AI accompanied by reduced training and independent practice.
-S3 / Late correction / Automation-first settings are maintained until year 10, after which augmentation-oriented settings are introduced and delegation returns to its baseline level.
-S4 / Delegation only / Human–AI task delegation increases over time, while all other policy levers remain at baseline settings.
-S5 / AI capability surge / AI development accelerates through a reduction in AI development time, while human-side organizational policies remain at baseline settings.
+| Scenario | Name | Description |
+|---|---|---|
+| S0 | Baseline | Balanced current use, with baseline settings for AI adoption, training, independent practice, and task allocation. |
+| S1 | Augmentation | Human-in-the-loop use supported by increased training investment and protected independent practice. |
+| S2 | Automation-first | Rapid delegation to AI accompanied by reduced training and independent practice. |
+| S3 | Late correction | Automation-first settings are maintained until year 10, after which augmentation-oriented settings are introduced and delegation returns to its baseline level. |
+| S4 | Delegation only | Human–AI task delegation increases over time, while all other policy levers remain at baseline settings. |
+| S5 | AI capability surge | AI development accelerates through a reduction in AI development time, while human-side organizational policies remain at baseline settings. |
 
 ### Scenario Configuration
 
@@ -63,12 +63,12 @@ The late-correction intervention in S3 occurs at year 10.
 
 The model uses the following simulation settings:
 
-| Parameter / Value |
-
-| Initial Time / 0 years |
-| Final Time / 30 years |
-| Time Step / 0.0625 years |
-| Save Period / 0.25 years |
+| Parameter | Value |
+|---|---:|
+| Initial Time | 0 years |
+| Final Time | 30 years |
+| Time Step | 0.0625 years |
+| Save Period | 0.25 years |
 
 ## 5. How to Use the Model
 
